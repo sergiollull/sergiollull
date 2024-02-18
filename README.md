@@ -1,6 +1,6 @@
-[![MasterHead](https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg?itok=D8qgVwxb)
+![MasterHead](https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg?itok=D8qgVwxb)
 <h1 align="center">Hi 👋, I'm Deniz Yalçın</h1>
-<h3 align="center">Computer Engineer from Istanbul</h3>
+<h3 align="center">Jr. Computer Engineer from Istanbul</h3>
 
 - 🔭 I’m currently working on **Android, Flutter, Swift**
 
